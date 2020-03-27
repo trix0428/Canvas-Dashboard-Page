@@ -1,0 +1,196 @@
+*{
+    margin: 0%;
+}
+.dashboard{
+    float: left;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+    margin-top: 1%;
+    margin-left: 1%;
+
+    /* background-color: coral; */
+
+}
+.line1{
+  
+    margin-top: 5.5%;
+    width: 60%;
+    margin-right: 5%;
+    margin-left: -8%;
+    border: 0.5 solid gray;
+    
+    float: left;
+}
+.sidebar{
+
+    float: left;
+    background-color:#1b4d32;;
+    height: 800px;
+    width: 50px ;
+}
+
+.hamburger{
+    padding: 15px;
+    float: right;
+}
+.a{
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: white;
+    margin: 3px 0;
+   
+}
+
+.courses{
+    width: 900px;
+    padding: 30px;
+    float: left;
+    margin-top: 50px;
+    /* background-color: thistle; */
+    margin-right: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+
+.dt{  
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+ .dttop{
+    width: 270px;
+    height: 150px;
+    background-color: grey;
+}
+ .dtbot{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+
+}
+.dt p.one{
+    color: grey;
+}
+.dt:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5)
+}  
+
+.ds{
+    margin-left: 30px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+.dstop{
+    width: 270px;
+    height: 150px;
+    background-color: rgb(131, 202, 211);
+    
+}
+ .dsbot{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+.ds:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5)
+}  
+.ds p.one{
+    color: rgb(131, 202, 211);
+}
+.py{
+    margin-left: 30px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+.pytop{
+    width: 270px;
+    height: 150px;
+    background-color: rgb(170, 14, 118);
+    
+}
+ .pybot{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+.py:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5)
+}  
+.py p.one{
+    color: rgb(170, 14, 118);
+}
+.js{
+    margin-top: 30px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+.jstop{
+    width: 270px;
+    height: 150px;
+    background-color: rgb(75, 118, 236);
+}
+.jsbot{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+.js:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5)
+}  
+.js p.one{
+    color:  rgb(75, 118, 236);
+}
+.ba{
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+.batop{
+    width: 270px;
+    height: 150px;
+    background-color: rgb(16, 88, 32);
+    
+}
+.babot{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+.ba:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5)
+}  
+.ba p.one{
+    color: rgb(16, 88, 32);
+}
+p.titletodo{
+    color: black;
+}
+p.content{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: thistle; */
+    padding-top: 20px;
+    line-height: 25px;
+}
+.todo{
+    
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(180, 180, 180);
+    /* background-color: teal; */
+    margin-right: 200px; 
+    width: 200px;
+    padding-top: 50px;
+    margin-left: 1200px;
+    position: absolute;
+    float: right;
+    font-size: 14px;
+    
+}   
+
+
+hr{
+    border: 0.5 solid rgb(0, 0, 0);
+}
+.titletext{
+    color:  rgb(16, 88, 32);
+}
